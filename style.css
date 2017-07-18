@@ -1,0 +1,185 @@
+.header{
+	background-color:white;
+	height:auto;
+	border-bottom:5px solid silver;
+	box-shadow:0px 5px 20px darkcyan;
+}
+
+
+.container{
+	background-color:darkcyan;
+	width:100%;
+	height:auto;
+	margin:0 auto;
+	box-shadow: 0 0 15px grey;
+}
+
+.container img{
+	float:left;
+	margin: 10px 15px 15px 10px;
+}
+
+.center{
+	height:auto;
+	background-color:white;
+	margin-top:5%;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom:5%;
+	border-radius:25px 25px 25px 25px;
+	padding:1%;
+}
+
+.bottom{
+	background-color:white;
+	height:auto;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom:5%;
+	border-radius:0 0 25px 25px;
+}
+
+.center h1{
+	color:darkcyan;
+	font-family:"Times News Roman",Helvetica,Arial;
+}
+
+.port-all{
+	margin:0;
+	padding:0;
+}
+
+.port-img{
+	height:15em;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+.port-all h2{
+	color:darkcyan;
+	font-family:"Times News Roman",Helvetica,Arial;
+	font-size:30px;
+	text-align:center;
+}
+
+.active {
+	margin-left:5%;
+    background-color: darkcyan;
+    color:white;
+    font-size:30px;
+    padding: 25px 16px;
+    font-family:"Times News Roman",Helvetica,Arial;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.about{
+	margin-left:45%;
+	text-decoration: none;
+}
+
+li a {
+	float:left;
+    display:inline-block;
+    color: #A8A8A8;
+    text-align: center;
+    padding: 36px 16px;
+    text-decoration: none;
+    font-size:15px;
+    font-family:"Times News Roman",Helvetica,Arial;
+}
+
+
+li a:hover:not(.active) {
+    background-color:darkcyan;
+}
+
+li a:hover{
+	color:white;
+}
+
+.footer{
+	background-color:#696969;
+	height:100px;
+	border-top:5px solid cadetblue;
+}
+
+span{
+	margin-top:3.5em;
+	display:block;
+	text-align:center;
+	font-family:"Times News Roman",Helvetica,Arial;
+	font-size:12px;
+	color:silver;
+}
+
+.connect{
+	background-color:lemonchiffon;
+	height:auto;
+}
+
+#hr-two{
+	width:95%;
+	margin-left:0;
+	margin-top:15px;
+	margin-bottom:25px;
+}
+
+#connectwithme{
+	font-size:25px;
+	font-family:"Times News Roman",Helvetica, Arial;
+	color:darkcyan;
+	margin-left:20px;
+	margin-top:15px;
+}
+
+#linky{
+	margin:0 0 50px 10%;
+	width:75px;
+	height:75px;
+	display:inline-block;
+}
+
+#git{
+	margin:0 0 50px 10%;
+	width:75px;
+	height:75px;
+	display: inline-block;
+}
+
+#stack{
+	margin:0 0 50px 10%;
+	width:75px;
+	height:75px;
+	display:inline-block;
+}
+
+form{
+ 	margin:0 0 0 1%;
+ }
+
+ input{
+ 	margin-top:10px;
+ 	margin-bottom:10px;
+ }
+
+textarea{
+	margin-top:10px;
+	width:100%;
+	margin-right:5%;
+}
+
+.port-contact{
+	height:auto;
+	background-color:white;
+	margin:5% auto;
+	border-radius:25px 25px 25px 25px;
+	padding:1%;
+}
